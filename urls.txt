@@ -1,0 +1,6 @@
+# One product URL per line. Lines starting with # are ignored.
+# Example:
+# https://www.patagonia.com/product/example
+# https://www.ralphlauren.com/product/example
+https://www.patagonia.com/product/mens-better-sweater-fleece-vest/25882.html?dwvar_25882_color=STH
+https://www.ralphlauren.com/men-clothing-sweaters/cable-knit-cotton-quarter-zip-sweater/546351.html
